@@ -1,0 +1,17 @@
+{
+	"ImportPath": "gitlab.com/jorgechavezrnd/siaasimulador2",
+	"GoVersion": "go1.12",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/gorilla/mux",
+			"Comment": "v1.7.0-4-gc5c6c98",
+			"Rev": "c5c6c98bc25355028a63748a498942a6398ccd22"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-sqlite3",
+			"Comment": "v1.10.0-41-g31f5bb8",
+			"Rev": "31f5bb843b7852e28d5a66d1d539c042c3bb623a"
+		}
+	]
+}

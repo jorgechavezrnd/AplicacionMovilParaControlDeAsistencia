@@ -1,0 +1,5 @@
+cmake==3.13.3
+face-recognition==1.2.3
+scikit-image==0.14.2
+aiohttp==3.5.4
+python-socketio==4.0.1
